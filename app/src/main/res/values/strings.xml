@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestServiceApplication</string>
+    <string name="packageName">com.zak.testserviceapplication</string>
+
+    <string name="ClickedActivity">com.zak.testserviceapplication.ClickedActivity</string>
+    <string name="Clicked2Activity">com.zak.testserviceapplication.Clicked2Activity</string>
+    <!-- <string name="offersActivity">com.zak.testserviceapplication.OffersActivity</string>
+     <string name="contactUsActivity">com.zak.testserviceapplication.ContactUsActivity</string>
+     <string name="faqActivity">com.zak.testserviceapplication.FaqActivity</string>
+     <string name="languageActivity">com.zak.testserviceapplication.LanguageActivity</string>
+     <string name="locationActivity">com.zak.testserviceapplication.LocationActivity</string>
+     <string name="openAccountActivity">com.zak.testserviceapplication.OpenAccountActivity</string>
+     <string name="productsActivity">com.zak.testserviceapplication.ProductsActivity</string>
+     <string name="registerUserActivity">com.zak.testserviceapplication.RegisterUserActivity</string>
+     <string name="toolsActivity">com.zak.testserviceapplication.ToolsActivity</string>-->
+
+</resources>
